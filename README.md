@@ -24,4 +24,4 @@ Git ist ein Versionskontrollsystem, das es ermöglicht, Änderungen in Codeproje
 
 [--> Links](links.md)
 
-*Tim Kunz 24.11.2023*
+Tim Kunz - 24.11.2023
